@@ -13,7 +13,6 @@ dependencies:
   - git
   - holoviews
   - hvplot
-  - ipywidgets
   - jupyterlab
   - jupyterlab-git
   - jupyterlab-nvdashboard
